@@ -23,3 +23,5 @@ If you rename `contract.tact`, make sure to update [`tact.config.json`](./tact.c
 You can find some examples of contract tests in [`contract.spec.ts`](./sources/contract.spec.ts). For more information about testing, see the [Tact Documentation](https://docs.tact-lang.org/language/guides/debug).
 
 To add new test files to your contracts, you should create `*.spec.ts` files similar to the template's one and they would be automatically included in testing.
+## Contact us
+Telegram https://t.me/Tr1030109 Discord https://discordapp.com/users/355705138696159252
