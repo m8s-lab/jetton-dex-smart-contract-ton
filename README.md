@@ -24,4 +24,4 @@ You can find some examples of contract tests in [`contract.spec.ts`](./sources/c
 
 To add new test files to your contracts, you should create `*.spec.ts` files similar to the template's one and they would be automatically included in testing.
 ## Contact us
-Telegram https://t.me/Tr1030109 Discord https://discordapp.com/users/355705138696159252
+Telegram https://t.me/Ee1030109 Discord https://discordapp.com/users/355705138696159252
